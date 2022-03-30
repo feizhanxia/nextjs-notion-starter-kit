@@ -16,7 +16,7 @@ export default {
 
   // social usernames (optional)
   twitter: null,
-  github: 'feizhanxia',
+  github: null,
   linkedin: null,
 
   // default notion icon and cover images for site-wide consistency (optional)
